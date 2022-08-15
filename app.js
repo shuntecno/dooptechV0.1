@@ -3,7 +3,7 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-
+var port = 8080;
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
@@ -37,5 +37,7 @@ app.use(function(err, req, res, next) {
   res.status(err.status || 500);
   res.render('error');
 });
-
+app.listen(port, () =>
+  console.log("server started and listen on port " + port)
+);
 module.exports = app;
