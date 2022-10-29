@@ -8,7 +8,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-02-21",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/1.jpg",
+    thumbnail : "http://34.101.85.150/images/1.jpg",
     category: "technology",
   },
   {
@@ -18,7 +18,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-02-21",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/1.jpg",
+    thumbnail : "http://34.101.85.150/images/1.jpg",
     category: "educations",
   },
   {
@@ -28,7 +28,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-02-21",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/1.jpg",
+    thumbnail : "http://34.101.85.150/images/1.jpg",
     category: "educations",
   },
   {
@@ -38,7 +38,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-02-21",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/1.jpg",
+    thumbnail : "http://34.101.85.150/images/1.jpg",
     category: "educations",
   },
   {
@@ -48,7 +48,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-10-25",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/1.jpg",
+    thumbnail : "http://34.101.85.150/images/1.jpg",
     category: "educations",
   },
   {
@@ -58,7 +58,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/1.jpg",
+    thumbnail : "http://34.101.85.150/images/1.jpg",
     category: "educations",
   },
   {
@@ -68,7 +68,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/1.jpg",
+    thumbnail : "http://34.101.85.150/images/1.jpg",
     category: "educations",
   },
   {
@@ -78,7 +78,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/2.jpg",
+    thumbnail : "http://34.101.85.150/images/2.jpg",
     category: "technology",
   },
   {
@@ -88,7 +88,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/2.jpg",
+    thumbnail : "http://34.101.85.150/images/2.jpg",
     category: "sport",
   },
   {
@@ -98,7 +98,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/2.jpg",
+    thumbnail : "http://34.101.85.150/images/2.jpg",
     category: "educations",
   },
   {
@@ -108,7 +108,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/2.jpg",
+    thumbnail : "http://34.101.85.150/images/2.jpg",
     category: "sport",
   },
   {
@@ -118,7 +118,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/2.jpg",
+    thumbnail : "http://34.101.85.150/images/2.jpg",
     category: "educations",
   },
   {
@@ -128,7 +128,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/2.jpg",
+    thumbnail : "http://34.101.85.150/images/2.jpg",
     category: "educations",
   },
   {
@@ -138,7 +138,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/3.jpg",
+    thumbnail : "http://34.101.85.150/images/3.jpg",
     category: "sport",
   },
   {
@@ -148,7 +148,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/3.jpg",
+    thumbnail : "http://34.101.85.150/images/3.jpg",
     category: "educations",
   },
   {
@@ -158,7 +158,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/3.jpg",
+    thumbnail : "http://34.101.85.150/images/3.jpg",
     category: "educations",
   },
   {
@@ -168,7 +168,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/3.jpg",
+    thumbnail : "http://34.101.85.150/images/3.jpg",
     category: "educations",
   },
   {
@@ -178,7 +178,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/3.jpg",
+    thumbnail : "http://34.101.85.150/images/3.jpg",
     category: "hoby",
   },
   {
@@ -188,7 +188,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-03-11",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/5.jpg",
+    thumbnail : "http://34.101.85.150/images/5.jpg",
     category: "technology",
   },
   {
@@ -198,7 +198,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-10-25",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/4.jpg",
+    thumbnail : "http://34.101.85.150/images/4.jpg",
     category: "educations",
   },
   {
@@ -208,7 +208,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-10-25",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/5.jpg",
+    thumbnail : "http://34.101.85.150/images/5.jpg",
     category: "educations",
   },
   {
@@ -218,7 +218,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-10-25",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/5.jpg",
+    thumbnail : "http://34.101.85.150/images/5.jpg",
     category: "educations",
   },
   {
@@ -228,7 +228,7 @@ let blogList = [
       "lore is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.m",
     create_time: "2022-10-25",
     author: "uuk",
-    thumbnail : "http://localhost:8080/images/5.jpg",
+    thumbnail : "http://34.101.85.150/images/5.jpg",
     category: "hoby",
   },
 ];
