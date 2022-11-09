@@ -22,15 +22,15 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
-app.post("/test", (req, res)=>{
-  console.log(req.body);
-  return res.send("ok ini  create user");
-})
+// app.post("/test", (req, res)=>{
+//   console.log(req.body);
+//   return res.send("ok ini  create user");
+// })
 
-app.use("/", indexRouter);
-app.use("/user", userRouter);
-app.use("/testing", testingRouter);
-app.use("/blog", blogRouter);
+app.use("/v1/", indexRouter);
+app.use("/v1/user", userRouter);
+app.use("/v1/testing", testingRouter);
+app.use("/v1/blog", blogRouter);
 
 
 // catch 404 and forward to error handler
