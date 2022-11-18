@@ -1,8 +1,10 @@
-{
+require("dotenv").config();
+console.log(process.env.DB_USER);
+const config = {
   "development": {
-    "username": "postgres",
-    "password": "12345",
-    "database": "dooptech",
+    "username": process.env.DB_USER,
+    "password": process.env.DB_PASS,
+    "database": process.env.DB_NAME,
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
@@ -21,3 +23,5 @@
     "dialect": "mysql"
   }
 }
+
+module.exports = config;

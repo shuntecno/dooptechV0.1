@@ -5,9 +5,10 @@ var cookieParser = require("cookie-parser");
 var logger = require("morgan");
 var port = 8080;
 var indexRouter = require("./routes/index");
-var userRouter = require("./routes/user");
-var testingRouter = require("./routes/testing");
-var blogRouter = require("./routes/blog");
+// var userRouter = require("./routes/user");
+// var testingRouter = require("./routes/testing");
+// var blogRouter = require("./routes/blog");
+const userRouter = require('./src/users/user.route')
 // const client = require("./connection");
 var app = express();
 // var bodyParser = require("body-parser");
@@ -22,15 +23,15 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
-// app.post("/test", (req, res)=>{
-//   console.log(req.body);
-//   return res.send("ok ini  create user");
-// })
+app.post("/test", (req, res)=>{
+  console.log(req.body);
+  return res.send("ok ini  create user");
+})
 
 app.use("/v1/", indexRouter);
-app.use("/v1/user", userRouter);
-app.use("/v1/testing", testingRouter);
-app.use("/v1/blog", blogRouter);
+app.use(userRouter);
+// app.use("/v1/testing", testingRouter);
+// app.use("/v1/blog", blogRouter);
 
 
 // catch 404 and forward to error handler
